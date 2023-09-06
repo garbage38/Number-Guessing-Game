@@ -1,7 +1,7 @@
 # PROJECTS ON DOM :
 
 ## PROJECT LINK 
-[CLICK HERE TO SEE THE PROJECTS FILES](https://github.com/garbage38/Number-Guessing-Game)
+[CLICK HERE TO SEE THE PROJECT](https://garbage38.github.io/Number-Guessing-Game/)
 
 # PROJECT NO. 4 Number Guessing Game
 ## SOLUTION :
